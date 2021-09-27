@@ -1,10 +1,10 @@
 import mongoose from 'mongoose';
 
-const uri =
+export const uri =
   'mongodb+srv://redwanul79:Inayem79@cluster0.s0z6u.mongodb.net/parcelkoi?retryWrites=true&w=majority';
 const options = {};
 
-const connectDb = () => {
+export const connectDb = () => {
   mongoose.connect(uri, options, (err, db) => {
     if (err) {
       console.error(err);
@@ -13,5 +13,3 @@ const connectDb = () => {
     }
   });
 };
-
-export default connectDb;
