@@ -1,5 +1,5 @@
 import express from 'express';
-import handleValidation from '../middlewares/handleValidations';
+import { handleValidation } from '../middlewares';
 import validators from '../models/view-models';
 import {
   getAllUsers,
