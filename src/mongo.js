@@ -1,8 +1,7 @@
 import mongoose from 'mongoose';
 
-export const uri =
-  'mongodb+srv://redwanul79:Inayem79@cluster0.s0z6u.mongodb.net/parcelkoi?retryWrites=true&w=majority';
-const options = {};
+export const uri = 'mongodb://localhost:27017/parcelkoi';
+const options = { useUnifiedTopology: true };
 
 export const connectDb = () => {
   mongoose.connect(uri, options, (err, db) => {
