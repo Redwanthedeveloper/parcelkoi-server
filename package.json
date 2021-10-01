@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index",
     "dev": "nodemon -r esm ./src/server.js",
-    "test": "jest --runInBand --force-exit"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",

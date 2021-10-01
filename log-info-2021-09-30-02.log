@@ -1,0 +1,8 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"correlationId\":\"1632948861908\",\"requestBody\":{\"username\":\"dsdfsdf\"}}","meta":{}}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"correlationId\":\"1632948870877\",\"requestBody\":{\"username\":\"dsdfsdf\"}}","meta":{}}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"correlationId\":\"1632949116084\",\"requestBody\":{\"username\":\"test002\"}}","meta":{}}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"correlationId\":\"1632949116103\",\"requestBody\":{}}","meta":{}}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"correlationId\":\"1632949168697\",\"requestBody\":{\"username\":\"test002\"}}","meta":{}}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"correlationId\":\"1632949168720\",\"requestBody\":{}}","meta":{}}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"correlationId\":\"1632949185540\",\"requestBody\":{\"username\":\"test002\"}}","meta":{}}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"correlationId\":\"1632949185560\",\"requestBody\":{}}","meta":{}}
